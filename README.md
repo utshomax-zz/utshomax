@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utshomax&layout=compact)](https://github.com/utshomax/github-readme-stats)
-<br>
-[![Utsho's github stats](https://github-readme-stats.vercel.app/api?username=utshomax)](https://github.com/utshomax/github-readme-stats)
+
 
